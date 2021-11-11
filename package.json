@@ -1,0 +1,22 @@
+{
+  "name": "doctor-api",
+  "version": "1.0.0",
+  "description": "Doctor list api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehp2021/doctor-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehp2021/doctor-api/issues"
+  },
+  "homepage": "https://github.com/ehp2021/doctor-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -4,7 +4,8 @@
   "description": "Doctor list api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,10 @@
   },
   "homepage": "https://github.com/ehp2021/doctor-api#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "json-server": "^0.17.0"
+  },
+  "engines": {
+    "node": "14.17.6"
   }
 }

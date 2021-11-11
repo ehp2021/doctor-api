@@ -1,5 +1,4 @@
-{
-    "doctors": [
+[
         {
             "id": 0,
             "name": "Samuel",
@@ -1149,4 +1148,3 @@
             "drug_4": "Abilify"
         }
     ]
-}

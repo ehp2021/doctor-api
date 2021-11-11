@@ -1,0 +1,1152 @@
+{
+    "doctors": [
+        {
+            "id": 0,
+            "name": "Samuel",
+            "last_name": "Jenkins",
+            "email": "jenkins@jenkinsmed.com",
+            "bio": "",
+            "photo": "https://images.generated.photos/bb6njria1Y8pz5XRGC89y3uAQkq9Pd2wzSvAkTIz3d8/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjE2MzE5LmpwZw.jpg",
+            "specialty_1": "Family Medicine",
+            "specialty_2": "Primary Care",
+            "medical_school": "Warwick Medical School",
+            "years_in_practice": 12,
+            "residency": "Good Samaritan Hospital",
+            "practice_name": "Jenkins Office LLC",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "75",
+                  "line1": "Venn Street",
+                  "line2": "Clapham",
+                  "postcode": "SW4 0BD",
+                  "country": "United Kingdom"
+                }
+              ],
+            "drug_1": "Januvia",
+            "drug_2": "Victoza",
+            "drug_3": "Invokana",
+            "drug_4": "Farxiga"
+        },
+        {
+            "id": 1,
+            "name": "Vanessa",
+            "last_name": "Monroe",
+            "email": "vanessa@monroemedicine.com",
+            "bio": "",
+            "photo": "https://images.generated.photos/9JUnXhJT2_TZy25d16pDCi2FwButNiPw6Ci54-Zfww8/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODg5Njc3LmpwZw.jpg",
+            "specialty_1": "Family Medicine",
+            "specialty_2": "Primary Care",
+            "medical_school": "UCLA",
+            "years_in_practice": 15,
+            "residency": "UCLA",
+            "practice_name": "Dr Vanessa Monroe LLC",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "1000",
+                    "line1": "437 Glendora Ave",
+                    "line2": "Los Angeles",
+                    "postcode": "CA",
+                    "country": "United States"
+                }
+              ],
+              "drug_1": "Jardiance",
+              "drug_2": "Victoza",
+              "drug_3": "Trulicity",
+              "drug_4": "Farxiga"
+        },
+        {
+            "id": 2,
+            "name": "Charlie",
+            "last_name": "Keller",
+            "email": "info@seacrestmed.com",
+            "bio": "",
+            "photo": "https://images.generated.photos/k_dBgFMpYF81cU3Y7YaPMFrUBMp4XoWRWM2oYGBtxUs/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MzY5NzEzLmpwZw.jpg",
+            "specialty_1": "Family Medicine",
+            "specialty_2": "Primary Care",
+            "medical_school": "Rutgers NJMS",
+            "years_in_practice": 27,
+            "residency": "Rutgers NJMS",
+            "practice_name": "Seacrest Medical LLC",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "3340",
+                    "line1": "Ocean Avenue",
+                    "line2": "Caldwell, NJ",
+                    "postcode": "08260",
+                    "country": "United States"
+                }
+              ],
+              "drug_1": "Ozempic",
+              "drug_2": "Victoza",
+              "drug_3": "Trulicity",
+              "drug_4": "Farxiga"
+        },
+        {
+            "id": 3,
+            "name": "Genevieve",
+            "last_name": "Solace",
+            "email": "gsolace@ludwig.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/cRGeYhzVGT9Q_F8Ub6ZS7PQCx6LklTQRgPbMKO9wtQo/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDA0NDg5LmpwZw.jpg",
+            "specialty_1": "Allergy and immunology",
+            "specialty_2": "",
+            "medical_school": "University of Bonn",
+            "years_in_practice": 9,
+            "residency": "University Hospital of Ludwig Maximilian University",
+            "practice_name": "University Hospital of Ludwig Maximilian University",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "2",
+                    "line1": "Eberswalder, Schönhauser Allee",
+                    "line2": "Berlin",
+                    "postcode": "10435",
+                    "country": "Germany"
+                }
+              ],
+            "drug_1": "Stelera",
+            "drug_2": "Tremfya",
+            "drug_3": "Dupixent",
+            "drug_4": ""
+        },
+        {
+            "id": 4,
+            "name": "Lauren",
+            "last_name": "Sharma",
+            "email": "lauren.sharma@partners.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/TGv6I0plNBuMNFWiQRbHDnS0WlrHQoflxLeTsGVqVdI/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTkyNTg0LmpwZw.jpg",
+            "specialty_1": "Anesthesiology",
+            "specialty_2": "Pain Medicine",
+            "medical_school": "Harvard",
+            "years_in_practice": 8,
+            "residency": "Yale",
+            "practice_name": "Massachusetts General Hospital",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "55",
+                  "line1": "Fruit Street",
+                  "line2": "Boston, MA",
+                  "postcode": "02114",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Vicodin",
+            "drug_2": "Percocet",
+            "drug_3": "Dilaudid",
+            "drug_4": ""
+        },
+        {
+            "id": 5,
+            "name": "Joanna",
+            "last_name": "Lopez",
+            "email": "joanna@dermmed.com",
+            "bio": "",
+            "photo": "https://images.generated.photos/jOkKwaoW0d5BeJY9oW6hsqi_pkHqruwVXu2UJN-IFIM/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MzcyNTYzLmpwZw.jpg",
+            "specialty_1": "Dermatology",
+            "specialty_2": "",
+            "medical_school": "University of Cologne",
+            "years_in_practice": 12,
+            "residency": "Technische Universität Dresden",
+            "practice_name": "Derm Medical LLC",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "1",
+                    "line1": "Potsdamer Platz",
+                    "line2": "Berlin",
+                    "postcode": "10785",
+                    "country": "Germany"
+                }
+              ],
+            "drug_1": "Dupixent",
+            "drug_2": "Cosentyx",
+            "drug_3": "Botox",
+            "drug_4": ""
+        },
+        {
+            "id": 6,
+            "name": "Jaxson",
+            "last_name": "Bolt",
+            "email": "jbolt@uhn.ca",
+            "bio": "",
+            "photo": "https://images.generated.photos/-DGWaMUJPm7Nuq03AgXD_D-sq7HklBCZkubt4gVVSmU/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTAzNzkwLmpwZw.jpg",
+            "specialty_1": "Emergency medicine",
+            "specialty_2": "",
+            "medical_school": "McGill",
+            "years_in_practice": 11,
+            "residency": "Yale",
+            "practice_name": "Toronto General Hospital",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "147",
+                    "line1": "Spadina Ave",
+                    "line2": "Toronto",
+                    "postcode": "M5V 2L7",
+                    "country": "Canada"
+                }
+              ],
+            "drug_1": "",
+            "drug_2": "",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 7,
+            "name": "Claire",
+            "last_name": "Ashley",
+            "email": "claire.ashley@partners.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/GopuX7Y20oepanqhUJLX6QNgAT7l4SL_n1fxI-r1DMw/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDU4OTk4LmpwZw.jpg",
+            "specialty_1": "Neurology",
+            "specialty_2": "Medical genetics",
+            "medical_school": "Yale",
+            "years_in_practice": 10,
+            "residency": "Columbia University",
+            "practice_name": "Massachusetts General Hospital",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "55",
+                  "line1": "Fruit Street",
+                  "line2": "Boston, MA",
+                  "postcode": "02114",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Tecfidera",
+            "drug_2": "Gilenya",
+            "drug_3": "Tysabri",
+            "drug_4": "Aubagio"
+        },
+        {
+            "id": 8,
+            "name": "Katherine ",
+            "last_name": "Johnson",
+            "email": "katherine.johnson@sinaihealth.ca",
+            "bio": "",
+            "photo": "https://images.generated.photos/qspHqWN3hGyJ2ZsKLm4_CYcd8Rh9CJct6ZnWwBP6HBs/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjU0ODE0LmpwZw.jpg",
+            "specialty_1": "Obstetrics and gynecology",
+            "specialty_2": "Gyn Oncology and",
+            "medical_school": "University of Toronto",
+            "years_in_practice": 18,
+            "residency": "Toronto General Hospital",
+            "practice_name": "Mount Sinai Hospital - Toronto",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "47",
+                    "line1": "Charles Street West",
+                    "line2": "Toronto, Ontario",
+                    "postcode": "M4Y 2R4",
+                    "country": "Canada"
+                }
+              ],
+            "drug_1": "Olaparib",
+            "drug_2": "Opdivo",
+            "drug_3": "Bleomycin",
+            "drug_4": ""
+        },
+        {
+            "id": 9,
+            "name": "Jonah",
+            "last_name": "Pereza",
+            "email": "jpereza@univ-angers.fr/",
+            "bio": "",
+            "photo": "https://images.generated.photos/5kyrKDoi7j1Qco-ZchhrNuNnLAkvxDfAzYKSgw5PpgY/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTM0NDc5LmpwZw.jpg",
+            "specialty_1": "Radiology",
+            "specialty_2": "Diagnostic radiology",
+            "medical_school": "Sorbonne University",
+            "years_in_practice": 12,
+            "residency": "Sorbonne University",
+            "practice_name": "Angers University Hospital",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "12",
+                    "line1": "rue St Léonard",
+                    "line2": "Nantes",
+                    "postcode": "44000",
+                    "country": "France"
+                }
+              ],
+            "drug_1": "",
+            "drug_2": "",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 10,
+            "name": "Sam",
+            "last_name": "Noel",
+            "email": "sam.noel@northwestern.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/V5VyspOaVMdf8NA5IIAn9G3k7N9on3kVRc0FOiw_vjM/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTg4MDAwLmpwZw.jpg",
+            "specialty_1": "Ophthalmology",
+            "specialty_2": "",
+            "medical_school": "Harvard",
+            "years_in_practice": 14,
+            "residency": "University of Miami",
+            "practice_name": "Northwestern University Hospital",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "3411",
+                    "line1": "N Halsted St",
+                    "line2": "Chicago, Illinois",
+                    "postcode": "60657",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Eylea",
+            "drug_2": "Lucentis",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 11,
+            "name": "Josie",
+            "last_name": "Sharpe",
+            "email": "jsharpe@uchicagomedicine.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/m8ql4oR2VXHPgIORFY3YgXgxes1tPaExVAt6x5e8I0w/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Nzc3NDM2LmpwZw.jpg",
+            "specialty_1": "Obstetrics and gynecology",
+            "specialty_2": "",
+            "medical_school": "McMaster University ",
+            "years_in_practice": 9,
+            "residency": "Mount Sinai",
+            "practice_name": "University of Chicago Hospital",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "2333",
+                    "line1": "N Milwaukee Ave",
+                    "line2": "Chicago, Illinois",
+                    "postcode": "60647",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Olaparib",
+            "drug_2": "Opdivo",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 12,
+            "name": "John",
+            "last_name": "Park",
+            "email": "jpark237@utexas.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/I1SX7bWxFk7C_LfpRcrJxywzozDFQG5Jpw6HEIFrba0/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTg1ODU5LmpwZw.jpg",
+            "specialty_1": "Oncology",
+            "specialty_2": "Radiation oncology",
+            "medical_school": "Univ of Miami",
+            "years_in_practice": 25,
+            "residency": "UCLA",
+            "practice_name": "Univ of Texas Hospital",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "984",
+                    "line1": "388 E Stacy Rd",
+                    "line2": "Allen, TX",
+                    "postcode": "75002",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Keytruda",
+            "drug_2": "Opdivo",
+            "drug_3": "Imbruvica",
+            "drug_4": "Perjeta"
+        },
+        {
+            "id": 13,
+            "name": "Isabella",
+            "last_name": "Perkins",
+            "email": "isabellap@centraltexas.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/bASHyA6V5i_D8dpWK16U60srv4IrLoYO26bPdlsseLw/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODM5MjE2LmpwZw.jpg",
+            "specialty_1": "Surgery-General",
+            "specialty_2": "",
+            "medical_school": "UT Austin",
+            "years_in_practice": 15,
+            "residency": "Baylor",
+            "practice_name": "Central Texas Hospital",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "2304",
+                    "line1": "North Rd",
+                    "line2": "Austin, TX",
+                    "postcode": "75002",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "",
+            "drug_2": "",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 14,
+            "name": "Maddox",
+            "last_name": "Taylor",
+            "email": "maddox.taylor@seton.com",
+            "bio": "",
+            "photo": "https://images.generated.photos/ft8rEHFLAz4CHvQ9iwjveArr6R3weY8e1N7jn6VlCHY/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTQ4OTY0LmpwZw.jpg",
+            "specialty_1": "Neurosurgery",
+            "specialty_2": "",
+            "medical_school": "Rutgers NJMS",
+            "years_in_practice": 22,
+            "residency": "University of Washington",
+            "practice_name": "Seton Healthcare",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "11897886",
+                    "line1": "Forest St",
+                    "line2": "Austin, TX",
+                    "postcode": "75002",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "",
+            "drug_2": "",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 15,
+            "name": "Kimberly",
+            "last_name": "Jeeper",
+            "email": "kjeeper@texashealth.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/0WWSFWiVVjOdaozEKaosZk8V6BJVuPlSI71cEXUxeX0/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODQ3MTExLmpwZw.jpg",
+            "specialty_1": "Ophthalmology",
+            "specialty_2": "",
+            "medical_school": "Duke",
+            "years_in_practice": 16,
+            "residency": "Wake Forest",
+            "practice_name": "Texas Health",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "886",
+                    "line1": "Manuela St",
+                    "line2": "Dallas, TX",
+                    "postcode": "72392",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Lucentis",
+            "drug_2": "Avastin",
+            "drug_3": "Eylea",
+            "drug_4": ""
+        },
+        {
+            "id": 16,
+            "name": "Shanelle",
+            "last_name": "Sarkisian",
+            "email": "ssarkisian127@baylor.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/tx7h3Ppdhf98uLm3Id-BIryXVRCJXvl7uAL5SYJ9yAc/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjIyMTIwLmpwZw.jpg",
+            "specialty_1": "Pediatric Neurology",
+            "specialty_2": "Neurology",
+            "medical_school": "Baylor",
+            "years_in_practice": 12,
+            "residency": "Baylor",
+            "practice_name": "Baylor Healthcare",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "1001",
+                    "line1": "North Exposure St",
+                    "line2": "Dallas, TX",
+                    "postcode": "72392",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Tysabri",
+            "drug_2": "Gilenya",
+            "drug_3": "Tecfidera",
+            "drug_4": "Copaxone"
+        },
+        {
+            "id": 17,
+            "name": "Hunter",
+            "last_name": "Peterson",
+            "email": "petersonh@innovativepeds.com",
+            "bio": "",
+            "photo": "https://images.generated.photos/yiMNjhhIPBfEIlsfxYh0i3ejD2LrP0zPsTi-DQTadCo/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92Ml8w/MTM0NjE3LmpwZw.jpg",
+            "specialty_1": "Pediatrics",
+            "specialty_2": "",
+            "medical_school": "Columbia",
+            "years_in_practice": 11,
+            "residency": "NYU",
+            "practice_name": "Innovative Peds LLC",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "121",
+                    "line1": "Houston St",
+                    "line2": "New York, NY",
+                    "postcode": "10002",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Adderall",
+            "drug_2": "Dupixent",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 18,
+            "name": "Thiago",
+            "last_name": "West",
+            "email": "thiagowest@lenoxhill.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/LNP27VaOqrxm_kXlSR541Engf0POV6AIco4i9Sa8y-Y/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92Ml8w/NDU5Mzg3LmpwZw.jpg",
+            "specialty_1": "Oncology",
+            "specialty_2": "Radiation Oncology",
+            "medical_school": "University of Montréal",
+            "years_in_practice": 14,
+            "residency": "NYU",
+            "practice_name": "Lenox Hill",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "3004",
+                    "line1": "East 74th St",
+                    "line2": "New York, NY",
+                    "postcode": "10022",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Keytruda",
+            "drug_2": "Opdivo",
+            "drug_3": "Tagrisso",
+            "drug_4": "Herceptin"
+        },
+        {
+            "id": 19,
+            "name": "Elsie",
+            "last_name": "Jackson",
+            "email": "",
+            "bio": "elsiejackson@columbia.edu",
+            "photo": "https://images.generated.photos/xtEOgZIbce2fDgnrsXf6PNaNU3cDlmhWz6RrLnjDWwM/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Nzc0MTAzLmpwZw.jpg",
+            "specialty_1": "Orthopedic Surgery",
+            "specialty_2": "",
+            "medical_school": "NYU",
+            "years_in_practice": 12,
+            "residency": "Mount Sinai",
+            "practice_name": "Columbia University Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "1789",
+                    "line1": "West 167th St",
+                    "line2": "New York, NY",
+                    "postcode": "10027",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "",
+            "drug_2": "",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 20,
+            "name": "Savannah",
+            "last_name": "Kim",
+            "email": "savannahkim@columbia.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/k_jacJ72uo_NnoNBW4Ba3eakFmUakRYtQv2AjmsIrGU/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjEyMDI5LmpwZw.jpg",
+            "specialty_1": "Dermatology",
+            "specialty_2": "",
+            "medical_school": "Harvard",
+            "years_in_practice": 12,
+            "residency": "Stanford",
+            "practice_name": "Columbia University Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "6785",
+                    "line1": "W 129th St",
+                    "line2": "New York, NY",
+                    "postcode": "10001",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Dupixent",
+            "drug_2": "Stelera",
+            "drug_3": "Humira",
+            "drug_4": "Cosentyx"
+        },
+        {
+            "id": 21,
+            "name": "Layla",
+            "last_name": "Harris",
+            "email": "",
+            "bio": "",
+            "photo": "https://images.generated.photos/_YB8-4OR_c9svotjUIIFUMzGGtFSIdp5naj6xrcKBEg/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDU0NjY2LmpwZw.jpg",
+            "specialty_1": "Surgery-General",
+            "specialty_2": "",
+            "medical_school": "Stanford",
+            "years_in_practice": 12,
+            "residency": "USC",
+            "practice_name": "St Vincent Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "21",
+                    "line1": "West St",
+                    "line2": "New York, NY",
+                    "postcode": "10019",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "",
+            "drug_2": "",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 22,
+            "name": "Natalie",
+            "last_name": "Cassidy",
+            "email": "",
+            "bio": "",
+            "photo": "https://images.generated.photos/VUJN4vHLhePPEub7Clk-QsWWR5-y2iMJFE_yBJaT-_s/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDg4ODk1LmpwZw.jpg",
+            "specialty_1": "Internal Medicine",
+            "specialty_2": "Family Medicine",
+            "medical_school": "UNC",
+            "years_in_practice": 9,
+            "residency": "Eisenhower Medical Center",
+            "practice_name": "St Vincent Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "21",
+                    "line1": "West St",
+                    "line2": "New York, NY",
+                    "postcode": "10019",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Humira",
+            "drug_2": "Cosentyx",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 23,
+            "name": "Miguel",
+            "last_name": "McKenna",
+            "email": "miguel.mckenna@mtsinai.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/zFzGGEKZlPatrrLqrjo-ktM8bEWqf05Zh3oVXGl8z64/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODg3OTg1LmpwZw.jpg",
+            "specialty_1": "Otolaryngology",
+            "specialty_2": "",
+            "medical_school": "Mt Sinai Medical Center",
+            "years_in_practice": 28,
+            "residency": "Mt Sinai Medical Center",
+            "practice_name": "Mt Sinai Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "2100",
+                    "line1": "Southwest St",
+                    "line2": "New York, NY",
+                    "postcode": "10037",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Loratadine",
+            "drug_2": "Cosentyx",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 24,
+            "name": "Leon",
+            "last_name": "Adams",
+            "email": "adamsl47@upenn.health.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/r_VsQTkdHvQaI1bfezxL4n3rfCPl5YsmxN68TjBnDyI/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Mzc5NjA3LmpwZw.jpg",
+            "specialty_1": "Ophthalmology",
+            "specialty_2": "",
+            "medical_school": "",
+            "years_in_practice": 13,
+            "residency": "",
+            "practice_name": "Univ of Pennsylvania Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "2100",
+                    "line1": "Brown St",
+                    "line2": "Philadelphia, PA",
+                    "postcode": "19107",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Avastin",
+            "drug_2": "Eylea",
+            "drug_3": "Lucentis",
+            "drug_4": ""
+        },
+        {
+            "id": 25,
+            "name": "Jack",
+            "last_name": "Cromwell",
+            "email": "cromwellj550@jefferson.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/2GLI1mGncFZYsCHzxoW4Tz8_03PsElBvjWqNx3Q4lA8/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjkxNDkwLmpwZw.jpg",
+            "specialty_1": "Oncology",
+            "specialty_2": "",
+            "medical_school": "University of Alabama at Birmingham School of Medicine",
+            "years_in_practice": 26,
+            "residency": "Thomas Jefferson Medical Center",
+            "practice_name": "Thomas Jefferson Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "111",
+                    "line1": "S 11th St",
+                    "line2": "Philadelphia, PA",
+                    "postcode": "19107",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Keytruda",
+            "drug_2": "Opdivo",
+            "drug_3": "Olaparib",
+            "drug_4": "Imbruvica"
+        },
+        {
+            "id": 26,
+            "name": "Nash",
+            "last_name": "Smith",
+            "email": "smithn520@jefferson.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/6yfUK8EB9BzYdwcCGxB0mAlMASNaHQvTN2HaJWJNH-A/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjI0Njc0LmpwZw.jpg",
+            "specialty_1": "Anesthesiology",
+            "specialty_2": "Pain Medicine",
+            "medical_school": "University of Arizona College of Medicine – Tucson",
+            "years_in_practice": 12,
+            "residency": "Mayo",
+            "practice_name": "Thomas Jefferson Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "111",
+                    "line1": "S 11th St",
+                    "line2": "Philadelphia, PA",
+                    "postcode": "19107",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Diluadid",
+            "drug_2": "Vicodin",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 27,
+            "name": "Jenna",
+            "last_name": "Smith",
+            "email": "smithj2043@jefferson.edu",
+            "bio": "",
+            "photo": "https://generated.photos/face/joyful-black-adult-female-with-short-brown-hair-and-brown-eyes--5e687ca26d3b380006ef4e1f",
+            "specialty_1": "Cardiology",
+            "specialty_2": "",
+            "medical_school": "Charles R. Drew University of Medicine and Science",
+            "years_in_practice": 12,
+            "residency": "USC",
+            "practice_name": "Thomas Jefferson Medical Center",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "111",
+                    "line1": "S 11th St",
+                    "line2": "Philadelphia, PA",
+                    "postcode": "19107",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Eliquis",
+            "drug_2": "Lasix",
+            "drug_3": "Entresto",
+            "drug_4": ""
+        },
+        {
+            "id": 28,
+            "name": "Steven",
+            "last_name": "Levine",
+            "email": "steven.levine662@kaiser.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/YhtUGmPmar0AEVYywmmkMz8jhIwO69TDYQtiyQ6qWUc/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NTM3MzMwLmpwZw.jpg",
+            "specialty_1": "Neurology",
+            "specialty_2": "Neuropathology",
+            "medical_school": "University of California, Riverside School of Medicine",
+            "years_in_practice": 27,
+            "residency": "NYU",
+            "practice_name": "Kaiser Permenante",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "275",
+                  "line1": "Bronson Way NE",
+                  "line2": "Renton, WA",
+                  "postcode": "98056",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Tecfidera",
+            "drug_2": "Ubrelvy",
+            "drug_3": "Mayzent",
+            "drug_4": "Qulipta"
+        },
+        {
+            "id": 29,
+            "name": "Remi",
+            "last_name": "Roberts",
+            "email": "rroberts@kaiser.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/H72sTGRbFYe1XMz3zWA8gF2XKwc0ib6JG0iugYcTAZw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Njk0MTQzLmpwZw.jpg",
+            "specialty_1": "Nephrology",
+            "specialty_2": "",
+            "medical_school": "Medical College of Georgia at Augusta University",
+            "years_in_practice": 21,
+            "residency": "Kaiser Permenante",
+            "practice_name": "Kaiser Permenante",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "275",
+                    "line1": "Bronson Way NE",
+                    "line2": "Renton, WA",
+                    "postcode": "98056",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Invokana",
+            "drug_2": "Farxiga",
+            "drug_3": "Procrit",
+            "drug_4": ""
+        },
+        {
+            "id": 30,
+            "name": "Kai",
+            "last_name": "Hensley",
+            "email": "khen@kaiser.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/heyBoG_e77bPwiNUXdcb-tUn1W7NBt44DTdF5deqCQM/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjIxNTY5LmpwZw.jpg",
+            "specialty_1": "Psychiatry",
+            "specialty_2": "",
+            "medical_school": "Rush Medical College",
+            "years_in_practice": 19,
+            "residency": "Rush Medical College",
+            "practice_name": "Kaiser Permenante",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "125",
+                    "line1": "16th Ave E",
+                    "line2": "Seattle, WA",
+                    "postcode": "98112",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Xanax",
+            "drug_2": "Caplyta",
+            "drug_3": "Lexapro",
+            "drug_4": "Lybalvi"
+        },
+        {
+            "id": 31,
+            "name": "Nora",
+            "last_name": "Hawkins",
+            "email": "hawkinsn2348@kaiser.org",
+            "bio": "",
+            "photo": "https://images.generated.photos/4C-rSfVWhkpVn9KUyEgg8Zl0uDEmGbRboFuT27Lhdmw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDkyNDM3LmpwZw.jpg",
+            "specialty_1": "Respiratory medicine",
+            "specialty_2": "",
+            "medical_school": "University of Kentucky College of Medicine",
+            "years_in_practice": 18,
+            "residency": "Boston University",
+            "practice_name": "Kaiser Permenante",
+            "addresses": [
+                {
+                    "addressId": 0,
+                    "number": "125",
+                    "line1": "16th Ave E",
+                    "line2": "Seattle, WA",
+                    "postcode": "98112",
+                    "country": "USA"
+                }
+              ],
+            "drug_1": "Dupixent",
+            "drug_2": "Albuterol",
+            "drug_3": "Advair",
+            "drug_4": ""
+        },
+        {
+            "id": 32,
+            "name": "Stella",
+            "last_name": "Cullen",
+            "email": "cullens@ucla.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/f4ZOXHuplESI9j5m-6pEr9TAby0URRe37R2IAxmYSg8/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MzA3ODE5LmpwZw.jpg",
+            "specialty_1": "Psychiatry",
+            "specialty_2": "",
+            "medical_school": "University of Maryland School of Medicine",
+            "years_in_practice": 12,
+            "residency": "Johns Hopkins",
+            "practice_name": "UCLA",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "1250",
+                  "line1": "16th St",
+                  "line2": "Santa Monica, CA",
+                  "postcode": "90404",
+                  "country": "USA"
+                }
+              ],
+              "drug_1": "Lexapro",
+              "drug_2": "Caplyta",
+              "drug_3": "Xanax",
+              "drug_4": "Lybalvi"
+        },
+        {
+            "id": 33,
+            "name": "Zion",
+            "last_name": "Kade",
+            "email": "zion.kade@ucla.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/R9nilMlN6446-dhHtmWath7DKel0XF494GD-eHVhEaA/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Nzk4OTU4LmpwZw.jpg",
+            "specialty_1": "Sports medicine",
+            "specialty_2": "Family medicine",
+            "medical_school": "Harvard",
+            "years_in_practice": 23,
+            "residency": "University of Massachusetts Medical School",
+            "practice_name": "UCLA",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "1250",
+                  "line1": "16th St",
+                  "line2": "Santa Monica, CA",
+                  "postcode": "90404",
+                  "country": "USA"
+                }
+              ],
+              "drug_1": "Januvia",
+              "drug_2": "Victoza",
+              "drug_3": "",
+              "drug_4": ""
+        },
+        {
+            "id": 34,
+            "name": "Joseph",
+            "last_name": "Chen",
+            "email": "joe.chen@ucla.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/dykfmCzuY-IpIqk6sbl-6Nxs1phQl0ccArItoN6P5wU/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjM3NTEyLmpwZw.jpg",
+            "specialty_1": "Urology",
+            "specialty_2": "",
+            "medical_school": "University of Minnesota Medical School",
+            "years_in_practice": 26,
+            "residency": "Saint Louis University School of Medicine",
+            "practice_name": "UCLA",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "1250",
+                  "line1": "16th St",
+                  "line2": "Santa Monica, CA",
+                  "postcode": "90404",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Everolimus",
+            "drug_2": "Myrbetriq",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 35,
+            "name": "Khloe",
+            "last_name": "Lopez",
+            "email": "khloe.lopez@usc.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/EVsF5V9MQsM2v6jBP5_iE9oDHc0H-l9u9UFBOYrZeW8/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NTAyNzMyLmpwZw.jpg",
+            "specialty_1": "Pediatrics",
+            "specialty_2": "",
+            "medical_school": "University of Nebraska College of Medicine",
+            "years_in_practice": 17,
+            "residency": "USC",
+            "practice_name": "Keck Hospital USC",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "1500",
+                  "line1": "San Pablo St",
+                  "line2": "Los Angeles, CA",
+                  "postcode": "90033",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Amoxicillin",
+            "drug_2": "Azithromycin",
+            "drug_3": "Albuterol",
+            "drug_4": "Cefdinir"
+        },
+        {
+            "id": 36,
+            "name": "Archer",
+            "last_name": "Jones",
+            "email": "archer.jones@usc.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/9M59K2Q26k5VgQQSYNsF4uyvVVs2m2HSio_U_3LqTLM/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDM2NTI0LmpwZw.jpg",
+            "specialty_1": "Oncology",
+            "specialty_2": "",
+            "medical_school": "USC",
+            "years_in_practice": 14,
+            "residency": "Hackensack Meridian School of Medicine",
+            "practice_name": "Keck Hospital USC",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "1500",
+                  "line1": "San Pablo St",
+                  "line2": "Los Angeles, CA",
+                  "postcode": "90033",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Ibrance",
+            "drug_2": "Avastin",
+            "drug_3": "Keytruda",
+            "drug_4": "Opdivo"
+        },
+        {
+            "id": 37,
+            "name": "Rylee",
+            "last_name": "Carter",
+            "email": "rylee.carter@usc.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/hgFL-XI3XptPsxNxS-DG5KwWMD7i7feRfIxMLyOmDCY/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NzAwNTYzLmpwZw.jpg",
+            "specialty_1": "Rheumatology",
+            "specialty_2": "",
+            "medical_school": "School of Medicine at Hofstra/Northwell",
+            "years_in_practice": 10,
+            "residency": "School of Medicine at Hofstra/Northwell",
+            "practice_name": "Keck Hospital USC",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "1500",
+                  "line1": "San Pablo St",
+                  "line2": "Los Angeles, CA",
+                  "postcode": "90033",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Humira",
+            "drug_2": "Celebrex",
+            "drug_3": "Enbrel",
+            "drug_4": ""
+        },
+        {
+            "id": 38,
+            "name": "Georgia",
+            "last_name": "Melenia",
+            "email": "georgia.melenia@usc.edu",
+            "bio": "",
+            "photo": "https://images.generated.photos/VzxDhBWzCYBWsW0jso9Dxr4g121l9PfdZ4IgXwqCtMo/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODQ4MzY4LmpwZw.jpg",
+            "specialty_1": "Oncology",
+            "specialty_2": "",
+            "medical_school": "NYU",
+            "years_in_practice": 9,
+            "residency": "State University of New York Upstate Medical University",
+            "practice_name": "Keck Hospital USC",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "1500",
+                  "line1": "San Pablo St",
+                  "line2": "Los Angeles, CA",
+                  "postcode": "90033",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Keytruda",
+            "drug_2": "Opdivo",
+            "drug_3": "Tagrisso",
+            "drug_4": "Perjeta"
+        },
+        {
+            "id": 39,
+            "name": "Madison",
+            "last_name": "Lowe",
+            "email": "madison.lowe@rutgers.edu",
+            "bio": "",
+            "photo": "https://generated.photos/face/joyful-latino-young-adult-female-with-medium-brown-hair-and-brown-eyes--5e6888f46d3b380006f21f89",
+            "specialty_1": "Dermatology",
+            "specialty_2": "",
+            "medical_school": "Wake Forest School of Medicine",
+            "years_in_practice": 12,
+            "residency": "University of North Dakota School of Medicine and Health Sciences",
+            "practice_name": "University Hospital - Rutgers",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "150",
+                  "line1": "Bergen St",
+                  "line2": "Newark, NJ",
+                  "postcode": "07103",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Dupixent",
+            "drug_2": "Botox",
+            "drug_3": "",
+            "drug_4": ""
+        },
+        {
+            "id": 40,
+            "name": "Kristin",
+            "last_name": "Suwannarat",
+            "email": "k.suwan@rutgers.edu",
+            "bio": "",
+            "photo": "https://generated.photos/face/joyful-asian-adult-female-with-medium-brown-hair-and-brown-eyes--5e68826f6d3b380006f0a333",
+            "specialty_1": "Psychiatry",
+            "specialty_2": "Schizophrenia",
+            "medical_school": "University of Cincinnati College of Medicine",
+            "years_in_practice": 15,
+            "residency": "Drexel University College of Medicine",
+            "practice_name": "University Hospital - Rutgers",
+            "addresses": [
+                {
+                  "addressId": 0,
+                  "number": "150",
+                  "line1": "Bergen St",
+                  "line2": "Newark, NJ",
+                  "postcode": "07103",
+                  "country": "USA"
+                }
+              ],
+            "drug_1": "Wellbutrin ",
+            "drug_2": "Seroquel",
+            "drug_3": "Latuda",
+            "drug_4": "Abilify"
+        }
+    ]
+}

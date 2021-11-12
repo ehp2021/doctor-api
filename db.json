@@ -190,10 +190,10 @@
                     "country": "Canada"
                 }
               ],
-            "drug_1": "",
-            "drug_2": "",
-            "drug_3": "",
-            "drug_4": ""
+            "drug_1": "Amiodarone",
+            "drug_2": "Fentanyl",
+            "drug_3": "Adenosine",
+            "drug_4": "EpiPen"
         },
         {
             "id": 7,
@@ -274,8 +274,8 @@
                     "country": "France"
                 }
               ],
-            "drug_1": "",
-            "drug_2": "",
+            "drug_1": "Azedra",
+            "drug_2": "Pylarify",
             "drug_3": "",
             "drug_4": ""
         },
@@ -332,7 +332,7 @@
               ],
             "drug_1": "Olaparib",
             "drug_2": "Opdivo",
-            "drug_3": "",
+            "drug_3": "Imbruvica",
             "drug_4": ""
         },
         {
@@ -386,10 +386,10 @@
                     "country": "USA"
                 }
               ],
-            "drug_1": "",
-            "drug_2": "",
-            "drug_3": "",
-            "drug_4": ""
+            "drug_1": "Ultram",
+            "drug_2": "Coumadin",
+            "drug_3": "Heparin",
+            "drug_4": "Zofran"
         },
         {
             "id": 14,
@@ -414,8 +414,8 @@
                     "country": "USA"
                 }
               ],
-            "drug_1": "",
-            "drug_2": "",
+            "drug_1": "Phenytoin",
+            "drug_2": "Meropenem",
             "drug_3": "",
             "drug_4": ""
         },
@@ -554,10 +554,10 @@
                     "country": "USA"
                 }
               ],
-            "drug_1": "",
-            "drug_2": "",
-            "drug_3": "",
-            "drug_4": ""
+            "drug_1": "Prozac",
+            "drug_2": "Neurontin",
+            "drug_3": "Synvisc",
+            "drug_4": "Flexeril"
         },
         {
             "id": 20,
@@ -610,10 +610,10 @@
                     "country": "USA"
                 }
               ],
-            "drug_1": "",
-            "drug_2": "",
-            "drug_3": "",
-            "drug_4": ""
+              "drug_1": "Ultram",
+              "drug_2": "Coumadin",
+              "drug_3": "Heparin",
+              "drug_4": "Zofran"
         },
         {
             "id": 22,
@@ -948,8 +948,8 @@
               ],
               "drug_1": "Januvia",
               "drug_2": "Victoza",
-              "drug_3": "",
-              "drug_4": ""
+              "drug_3": "Lipitor",
+              "drug_4": "Crestor"
         },
         {
             "id": 34,
@@ -976,7 +976,7 @@
               ],
             "drug_1": "Everolimus",
             "drug_2": "Myrbetriq",
-            "drug_3": "",
+            "drug_3": "Taxotere",
             "drug_4": ""
         },
         {
@@ -1116,7 +1116,7 @@
               ],
             "drug_1": "Dupixent",
             "drug_2": "Botox",
-            "drug_3": "",
+            "drug_3": "betamethasone",
             "drug_4": ""
         },
         {

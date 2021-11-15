@@ -182,7 +182,7 @@
             "drug_3": "Dilaudid",
             "drug_4": "",
             "drug-list": [
-              "Vicodin", "Percocet", "Dilaudid",
+              "Vicodin", "Percocet", "Dilaudid"
             ],
             "availability": [
               {
@@ -299,7 +299,7 @@
             "drug_3": "Tysabri",
             "drug_4": "Aubagio",
             "drug-list": [
-              "Tecfidera", "Gilenya", "Tysabri", "Aubagio",
+              "Tecfidera", "Gilenya", "Tysabri", "Aubagio"
             ],
             "availability": [
               {
@@ -465,6 +465,7 @@
                 "Friday": "4:00 pm ET"
               }
             ]
+        },
         {
             "id": 12,
             "name": "John",
@@ -1129,7 +1130,7 @@
             "drug_3": "Mayzent",
             "drug_4": "Qulipta",
             "drug-list": [
-              "Tecfidera","Ubrelvy","Mayzent","Qulipta",
+              "Tecfidera","Ubrelvy","Mayzent","Qulipta"
             ],
             "availability": [
               {
@@ -1207,7 +1208,7 @@
             "drug_3": "Lexapro",
             "drug_4": "Lybalvi",
             "drug-list": [
-              "Xanax","Caplyta","Lexapro","Lybalvi",
+              "Xanax","Caplyta","Lexapro","Lybalvi"
             ],
             "availability": [
               {
@@ -1588,7 +1589,7 @@
                   "country": "USA"
                 }
               ],
-            "drug_1": "Wellbutrin ",
+            "drug_1": "Wellbutrin",
             "drug_2": "Seroquel",
             "drug_3": "Latuda",
             "drug_4": "Abilify",

@@ -26,7 +26,7 @@
             "drug_2": "Victoza",
             "drug_3": "Invokana",
             "drug_4": "Farxiga",
-            "drug-list": [
+            "drug_list": [
               "Januvia", "Victoza", "Invokana", "Farxiga"
             ],
             "availability": [
@@ -64,7 +64,7 @@
               "drug_2": "Victoza",
               "drug_3": "Trulicity",
               "drug_4": "Farxiga",
-              "drug-list": [
+              "drug_list": [
                 "Jardiance", "Victoza", "Trulicity", "Farxiga"
               ],
               "availability": [
@@ -103,7 +103,7 @@
               "drug_2": "Victoza",
               "drug_3": "Trulicity",
               "drug_4": "Farxiga",
-              "drug-list": [
+              "drug_list": [
                 "Ozempic", "Victoza", "Trulicity", "Farxiga"
               ],
               "availability": [
@@ -142,7 +142,7 @@
             "drug_2": "Tremfya",
             "drug_3": "Tremfya",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Stelera", "Tremfya", "Tremfya"
             ],
             "availability": [
@@ -181,7 +181,7 @@
             "drug_2": "Percocet",
             "drug_3": "Dilaudid",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Vicodin", "Percocet", "Dilaudid"
             ],
             "availability": [
@@ -220,7 +220,7 @@
             "drug_2": "Cosentyx",
             "drug_3": "Botox",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Dupixent", "Cosentyx", "Botox"
             ],
             "availability": [
@@ -259,7 +259,7 @@
             "drug_2": "Fentanyl",
             "drug_3": "Adenosine",
             "drug_4": "EpiPen",
-            "drug-list": [
+            "drug_list": [
               "Amiodarone", "Fentanyl", "Adenosine", "EpiPen"
             ],
             "availability": [
@@ -298,7 +298,7 @@
             "drug_2": "Gilenya",
             "drug_3": "Tysabri",
             "drug_4": "Aubagio",
-            "drug-list": [
+            "drug_list": [
               "Tecfidera", "Gilenya", "Tysabri", "Aubagio"
             ],
             "availability": [
@@ -337,7 +337,7 @@
             "drug_2": "Opdivo",
             "drug_3": "Bleomycin",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Olaparib", "Opdivo", "Bleomycin"
             ],
             "availability": [
@@ -376,7 +376,7 @@
             "drug_2": "Pylarify",
             "drug_3": "",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Azedra", "Pylarify"
             ],
             "availability": [
@@ -415,7 +415,7 @@
             "drug_2": "Lucentis",
             "drug_3": "",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Eylea", "Lucentis"
             ],
             "availability": [
@@ -454,7 +454,7 @@
             "drug_2": "Opdivo",
             "drug_3": "Imbruvica",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Olaparib", "Opdivo", "Imbruvica"
             ],
             "availability": [
@@ -493,7 +493,7 @@
             "drug_2": "Opdivo",
             "drug_3": "Imbruvica",
             "drug_4": "Perjeta",
-            "drug-list": [
+            "drug_list": [
               "Keytruda","Opdivo","Imbruvica","Perjeta"
             ],
             "availability": [
@@ -532,7 +532,7 @@
             "drug_2": "Coumadin",
             "drug_3": "Heparin",
             "drug_4": "Zofran",
-            "drug-list": [
+            "drug_list": [
               "Ultram", "Coumadin", "Heparin", "Zofran"
             ],
             "availability": [
@@ -571,7 +571,7 @@
             "drug_2": "Meropenem",
             "drug_3": "",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Phenytoin", "Meropenem"
             ],
             "availability": [
@@ -611,7 +611,7 @@
             "drug_2": "Avastin",
             "drug_3": "Eylea",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Lucentis", "Avastin", "Eylea"
             ],
             "availability": [
@@ -651,7 +651,7 @@
             "drug_2": "Gilenya",
             "drug_3": "Tecfidera",
             "drug_4": "Copaxone",
-            "drug-list": [
+            "drug_list": [
               "Tysabri", "Gilenya", "Tecfidera", "Copaxone"
             ],
             "availability": [
@@ -691,7 +691,7 @@
             "drug_2": "Dupixent",
             "drug_3": "",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Adderall", "Dupixent"
             ],
             "availability": [
@@ -731,7 +731,7 @@
             "drug_2": "Opdivo",
             "drug_3": "Tagrisso",
             "drug_4": "Herceptin",
-            "drug-list": [
+            "drug_list": [
               "Keytruda","Opdivo","Tagrisso","Herceptin"
             ],
             "availability": [
@@ -771,7 +771,7 @@
             "drug_2": "Neurontin",
             "drug_3": "Synvisc",
             "drug_4": "Flexeril",
-            "drug-list": [
+            "drug_list": [
               "Prozac","Neurontin","Synvisc","Flexeril"
             ],
             "availability": [
@@ -811,7 +811,7 @@
             "drug_2": "Stelera",
             "drug_3": "Humira",
             "drug_4": "Cosentyx",
-            "drug-list": [
+            "drug_list": [
               "Dupixent","Stelera","Humira","Cosentyx"
             ],
             "availability": [
@@ -851,7 +851,7 @@
               "drug_2": "Coumadin",
               "drug_3": "Heparin",
               "drug_4": "Zofran",
-              "drug-list": [
+              "drug_list": [
                 "Ultram","Coumadin","Heparin","Zofran"
               ],
               "availability": [
@@ -891,7 +891,7 @@
             "drug_2": "Cosentyx",
             "drug_3": "",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Humira","Cosentyx"
             ],
             "availability": [
@@ -931,7 +931,7 @@
             "drug_2": "Cosentyx",
             "drug_3": "",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Loratadine","Cosentyx"
             ],
             "availability": [
@@ -971,7 +971,7 @@
             "drug_2": "Eylea",
             "drug_3": "Lucentis",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Avastin","Eylea","Lucentis"
             ],
             "availability": [
@@ -1011,7 +1011,7 @@
             "drug_2": "Opdivo",
             "drug_3": "Olaparib",
             "drug_4": "Imbruvica",
-            "drug-list": [
+            "drug_list": [
               "Keytruda","Opdivo","Olaparib","Imbruvica"
             ],
             "availability": [
@@ -1051,7 +1051,7 @@
             "drug_2": "Vicodin",
             "drug_3": "",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Diluadid","Vicodin"
             ],
             "availability": [
@@ -1090,7 +1090,7 @@
             "drug_2": "Lasix",
             "drug_3": "Entresto",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Eliquis","Lasix","Entresto"
             ],
             "availability": [
@@ -1129,7 +1129,7 @@
             "drug_2": "Ubrelvy",
             "drug_3": "Mayzent",
             "drug_4": "Qulipta",
-            "drug-list": [
+            "drug_list": [
               "Tecfidera","Ubrelvy","Mayzent","Qulipta"
             ],
             "availability": [
@@ -1168,7 +1168,7 @@
             "drug_2": "Farxiga",
             "drug_3": "Procrit",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Invokana","Farxiga","Procrit"
             ],
             "availability": [
@@ -1207,7 +1207,7 @@
             "drug_2": "Caplyta",
             "drug_3": "Lexapro",
             "drug_4": "Lybalvi",
-            "drug-list": [
+            "drug_list": [
               "Xanax","Caplyta","Lexapro","Lybalvi"
             ],
             "availability": [
@@ -1245,7 +1245,7 @@
             "drug_2": "Albuterol",
             "drug_3": "Advair",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Dupixent","Albuterol","Advair"
             ],
             "availability": [
@@ -1283,7 +1283,7 @@
               "drug_2": "Caplyta",
               "drug_3": "Xanax",
               "drug_4": "Lybalvi",
-              "drug-list": [
+              "drug_list": [
                 "Lexapro","Caplyta","Xanax","Lybalvi"
               ],
               "availability": [
@@ -1321,7 +1321,7 @@
               "drug_2": "Victoza",
               "drug_3": "Lipitor",
               "drug_4": "Crestor",
-              "drug-list": [
+              "drug_list": [
                 "Januvia","Victoza","Lipitor","Crestor"
               ],
               "availability": [
@@ -1359,7 +1359,7 @@
             "drug_2": "Myrbetriq",
             "drug_3": "Taxotere",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Everolimus","Myrbetriq","Taxotere"
             ],
             "availability": [
@@ -1398,7 +1398,7 @@
             "drug_2": "Azithromycin",
             "drug_3": "Albuterol",
             "drug_4": "Cefdinir",
-            "drug-list": [
+            "drug_list": [
               "Amoxicillin","Azithromycin","Albuterol","Cefdinir"
             ],
             "availability": [
@@ -1437,7 +1437,7 @@
             "drug_2": "Avastin",
             "drug_3": "Keytruda",
             "drug_4": "Opdivo",
-            "drug-list": [
+            "drug_list": [
               "Ibrance","Avastin","Keytruda","Opdivo"
             ],
             "availability": [
@@ -1476,7 +1476,7 @@
             "drug_2": "Celebrex",
             "drug_3": "Enbrel",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Humira","Celebrex","Enbrel"
             ],
             "availability": [
@@ -1515,7 +1515,7 @@
             "drug_2": "Opdivo",
             "drug_3": "Tagrisso",
             "drug_4": "Perjeta",
-            "drug-list": [
+            "drug_list": [
               "Keytruda","Opdivo","Tagrisso","Perjeta"
             ],
             "availability": [
@@ -1554,7 +1554,7 @@
             "drug_2": "Botox",
             "drug_3": "betamethasone",
             "drug_4": "",
-            "drug-list": [
+            "drug_list": [
               "Dupixent","Botox","betamethasone"
             ],
             "availability": [
@@ -1593,7 +1593,7 @@
             "drug_2": "Seroquel",
             "drug_3": "Latuda",
             "drug_4": "Abilify",
-            "drug-list": [
+            "drug_list": [
               "Wellbutrin ","Seroquel","Latuda","Abilify"
             ],
             "availability": [

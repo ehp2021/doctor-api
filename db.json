@@ -25,7 +25,17 @@
             "drug_1": "Januvia",
             "drug_2": "Victoza",
             "drug_3": "Invokana",
-            "drug_4": "Farxiga"
+            "drug_4": "Farxiga",
+            "drug-list": [
+              "Januvia", "Victoza", "Invokana", "Farxiga"
+            ],
+            "availability": [
+              {
+                "Monday": "12:00 pm ET",
+                "Wednesday": "12:00 pm ET",
+                "Friday": "2:00 pm ET"
+              }
+            ]
         },
         {
             "id": 1,
@@ -53,7 +63,18 @@
               "drug_1": "Jardiance",
               "drug_2": "Victoza",
               "drug_3": "Trulicity",
-              "drug_4": "Farxiga"
+              "drug_4": "Farxiga",
+              "drug-list": [
+                "Jardiance", "Victoza", "Trulicity", "Farxiga"
+              ],
+              "availability": [
+                {
+                  "Monday": "8:00 pm ET",
+                  "Tuesday": "4:30 pm ET",
+                  "Wednesday": "10:00 am ET",
+                  "Friday": "12:00 pm ET"
+                }
+              ]
         },
         {
             "id": 2,
@@ -81,7 +102,18 @@
               "drug_1": "Ozempic",
               "drug_2": "Victoza",
               "drug_3": "Trulicity",
-              "drug_4": "Farxiga"
+              "drug_4": "Farxiga",
+              "drug-list": [
+                "Ozempic", "Victoza", "Trulicity", "Farxiga"
+              ],
+              "availability": [
+                {
+                  "Monday": "8:15 am ET",
+                  "Tuesday": "4:30 pm ET",
+                  "Wednesday": "10:00 am ET",
+                  "Friday": "12:00 pm ET"
+                }
+              ]
         },
         {
             "id": 3,
@@ -108,8 +140,19 @@
               ],
             "drug_1": "Stelera",
             "drug_2": "Tremfya",
-            "drug_3": "Dupixent",
-            "drug_4": ""
+            "drug_3": "Tremfya",
+            "drug_4": "",
+            "drug-list": [
+              "Stelera", "Tremfya", "Tremfya"
+            ],
+            "availability": [
+              {
+                "Monday": "8:15 am ET",
+                "Tuesday": "4:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 4,
@@ -137,7 +180,18 @@
             "drug_1": "Vicodin",
             "drug_2": "Percocet",
             "drug_3": "Dilaudid",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Vicodin", "Percocet", "Dilaudid",
+            ],
+            "availability": [
+              {
+                "Monday": "8:15 am ET",
+                "Tuesday": "4:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 5,
@@ -165,7 +219,18 @@
             "drug_1": "Dupixent",
             "drug_2": "Cosentyx",
             "drug_3": "Botox",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Dupixent", "Cosentyx", "Botox"
+            ],
+            "availability": [
+              {
+                "Monday": "8:15 am ET",
+                "Tuesday": "4:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 6,
@@ -193,7 +258,18 @@
             "drug_1": "Amiodarone",
             "drug_2": "Fentanyl",
             "drug_3": "Adenosine",
-            "drug_4": "EpiPen"
+            "drug_4": "EpiPen",
+            "drug-list": [
+              "Amiodarone", "Fentanyl", "Adenosine", "EpiPen"
+            ],
+            "availability": [
+              {
+                "Monday": "8:15 am ET",
+                "Tuesday": "4:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 7,
@@ -221,7 +297,18 @@
             "drug_1": "Tecfidera",
             "drug_2": "Gilenya",
             "drug_3": "Tysabri",
-            "drug_4": "Aubagio"
+            "drug_4": "Aubagio",
+            "drug-list": [
+              "Tecfidera", "Gilenya", "Tysabri", "Aubagio",
+            ],
+            "availability": [
+              {
+                "Monday": "8:15 am ET",
+                "Tuesday": "4:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 8,
@@ -249,7 +336,18 @@
             "drug_1": "Olaparib",
             "drug_2": "Opdivo",
             "drug_3": "Bleomycin",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Olaparib", "Opdivo", "Bleomycin"
+            ],
+            "availability": [
+              {
+                "Monday": "8:15 am ET",
+                "Tuesday": "4:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 9,
@@ -277,7 +375,18 @@
             "drug_1": "Azedra",
             "drug_2": "Pylarify",
             "drug_3": "",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Azedra", "Pylarify"
+            ],
+            "availability": [
+              {
+                "Monday": "8:15 am ET",
+                "Tuesday": "3:30 pm ET",
+                "Wednesday": "11:00 am ET",
+                "Friday": "1:00 pm ET"
+              }
+            ]
         },
         {
             "id": 10,
@@ -305,7 +414,18 @@
             "drug_1": "Eylea",
             "drug_2": "Lucentis",
             "drug_3": "",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Eylea", "Lucentis"
+            ],
+            "availability": [
+              {
+                "Monday": "8:15 am ET",
+                "Tuesday": "3:30 pm ET",
+                "Wednesday": "11:00 am ET",
+                "Friday": "1:00 pm ET"
+              }
+            ]
         },
         {
             "id": 11,
@@ -333,8 +453,18 @@
             "drug_1": "Olaparib",
             "drug_2": "Opdivo",
             "drug_3": "Imbruvica",
-            "drug_4": ""
-        },
+            "drug_4": "",
+            "drug-list": [
+              "Olaparib", "Opdivo", "Imbruvica"
+            ],
+            "availability": [
+              {
+                "Monday": "7:15 pm ET",
+                "Tuesday": "5:30 pm ET",
+                "Wednesday": "8:00 am ET",
+                "Friday": "4:00 pm ET"
+              }
+            ]
         {
             "id": 12,
             "name": "John",
@@ -361,7 +491,18 @@
             "drug_1": "Keytruda",
             "drug_2": "Opdivo",
             "drug_3": "Imbruvica",
-            "drug_4": "Perjeta"
+            "drug_4": "Perjeta",
+            "drug-list": [
+              "Keytruda","Opdivo","Imbruvica","Perjeta"
+            ],
+            "availability": [
+              {
+                "Monday": "7:15 pm ET",
+                "Tuesday": "5:30 pm ET",
+                "Wednesday": "8:00 am ET",
+                "Friday": "4:00 pm ET"
+              }
+            ]
         },
         {
             "id": 13,
@@ -389,7 +530,18 @@
             "drug_1": "Ultram",
             "drug_2": "Coumadin",
             "drug_3": "Heparin",
-            "drug_4": "Zofran"
+            "drug_4": "Zofran",
+            "drug-list": [
+              "Ultram", "Coumadin", "Heparin", "Zofran"
+            ],
+            "availability": [
+              {
+                "Monday": "4:15 pm ET",
+                "Tuesday": "1:30 pm ET",
+                "Wednesday": "9:00 am ET",
+                "Friday": "4:00 pm ET"
+              }
+            ]
         },
         {
             "id": 14,
@@ -417,7 +569,19 @@
             "drug_1": "Phenytoin",
             "drug_2": "Meropenem",
             "drug_3": "",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Phenytoin", "Meropenem"
+            ],
+            "availability": [
+              {
+                "Monday": "2:30 pm ET",
+                "Tuesday": "12:30 pm ET",
+                "Wednesday": "7:00 am ET",
+                "Thursday": "2:30 pm ET",
+                "Friday": "4:00 pm ET"
+              }
+            ]
         },
         {
             "id": 15,
@@ -445,7 +609,19 @@
             "drug_1": "Lucentis",
             "drug_2": "Avastin",
             "drug_3": "Eylea",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Lucentis", "Avastin", "Eylea"
+            ],
+            "availability": [
+              {
+                "Monday": "2:30 pm ET",
+                "Tuesday": "12:30 pm ET",
+                "Wednesday": "5:00 am ET",
+                "Thursday": "12:30 pm ET",
+                "Friday": "4:00 pm ET"
+              }
+            ]
         },
         {
             "id": 16,
@@ -473,7 +649,19 @@
             "drug_1": "Tysabri",
             "drug_2": "Gilenya",
             "drug_3": "Tecfidera",
-            "drug_4": "Copaxone"
+            "drug_4": "Copaxone",
+            "drug-list": [
+              "Tysabri", "Gilenya", "Tecfidera", "Copaxone"
+            ],
+            "availability": [
+              {
+                "Monday": "12:30 pm ET",
+                "Tuesday": "12:30 pm ET",
+                "Wednesday": "8:00 am ET",
+                "Thursday": "12:30 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 17,
@@ -501,7 +689,19 @@
             "drug_1": "Adderall",
             "drug_2": "Dupixent",
             "drug_3": "",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Adderall", "Dupixent"
+            ],
+            "availability": [
+              {
+                "Monday": "2:30 pm ET",
+                "Tuesday": "2:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Thursday": "2:30 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 18,
@@ -529,7 +729,19 @@
             "drug_1": "Keytruda",
             "drug_2": "Opdivo",
             "drug_3": "Tagrisso",
-            "drug_4": "Herceptin"
+            "drug_4": "Herceptin",
+            "drug-list": [
+              "Keytruda","Opdivo","Tagrisso","Herceptin"
+            ],
+            "availability": [
+              {
+                "Monday": "10:00 am ET",
+                "Tuesday": "2:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Thursday": "2:30 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 19,
@@ -557,7 +769,19 @@
             "drug_1": "Prozac",
             "drug_2": "Neurontin",
             "drug_3": "Synvisc",
-            "drug_4": "Flexeril"
+            "drug_4": "Flexeril",
+            "drug-list": [
+              "Prozac","Neurontin","Synvisc","Flexeril"
+            ],
+            "availability": [
+              {
+                "Monday": "12:00 pm ET",
+                "Tuesday": "2:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Thursday": "2:30 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 20,
@@ -585,7 +809,19 @@
             "drug_1": "Dupixent",
             "drug_2": "Stelera",
             "drug_3": "Humira",
-            "drug_4": "Cosentyx"
+            "drug_4": "Cosentyx",
+            "drug-list": [
+              "Dupixent","Stelera","Humira","Cosentyx"
+            ],
+            "availability": [
+              {
+                "Monday": "12:00 pm ET",
+                "Tuesday": "2:30 pm ET",
+                "Wednesday": "10:00 am ET",
+                "Thursday": "2:30 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 21,
@@ -613,7 +849,19 @@
               "drug_1": "Ultram",
               "drug_2": "Coumadin",
               "drug_3": "Heparin",
-              "drug_4": "Zofran"
+              "drug_4": "Zofran",
+              "drug-list": [
+                "Ultram","Coumadin","Heparin","Zofran"
+              ],
+              "availability": [
+                {
+                  "Monday": "12:00 pm ET",
+                  "Tuesday": "12:30 pm ET",
+                  "Wednesday": "9:00 am ET",
+                  "Thursday": "12:30 pm ET",
+                  "Friday": "12:00 pm ET"
+                }
+              ]
         },
         {
             "id": 22,
@@ -641,7 +889,19 @@
             "drug_1": "Humira",
             "drug_2": "Cosentyx",
             "drug_3": "",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Humira","Cosentyx"
+            ],
+            "availability": [
+              {
+                "Monday": "12:00 pm ET",
+                "Tuesday": "12:30 pm ET",
+                "Wednesday": "5:00 pm ET",
+                "Thursday": "12:30 pm ET",
+                "Friday": "5:00 pm ET"
+              }
+            ]
         },
         {
             "id": 23,
@@ -669,7 +929,19 @@
             "drug_1": "Loratadine",
             "drug_2": "Cosentyx",
             "drug_3": "",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Loratadine","Cosentyx"
+            ],
+            "availability": [
+              {
+                "Monday": "3:00 pm ET",
+                "Tuesday": "4:30 pm ET",
+                "Wednesday": "5:00 pm ET",
+                "Thursday": "4:30 pm ET",
+                "Friday": "5:00 pm ET"
+              }
+            ]
         },
         {
             "id": 24,
@@ -697,7 +969,19 @@
             "drug_1": "Avastin",
             "drug_2": "Eylea",
             "drug_3": "Lucentis",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Avastin","Eylea","Lucentis"
+            ],
+            "availability": [
+              {
+                "Monday": "5:00 pm ET",
+                "Tuesday": "4:30 pm ET",
+                "Wednesday": "5:00 pm ET",
+                "Thursday": "6:30 pm ET",
+                "Friday": "5:00 pm ET"
+              }
+            ]
         },
         {
             "id": 25,
@@ -725,7 +1009,19 @@
             "drug_1": "Keytruda",
             "drug_2": "Opdivo",
             "drug_3": "Olaparib",
-            "drug_4": "Imbruvica"
+            "drug_4": "Imbruvica",
+            "drug-list": [
+              "Keytruda","Opdivo","Olaparib","Imbruvica"
+            ],
+            "availability": [
+              {
+                "Monday": "6:00 pm ET",
+                "Tuesday": "6:30 pm ET",
+                "Wednesday": "5:00 pm ET",
+                "Thursday": "4:30 pm ET",
+                "Friday": "5:00 pm ET"
+              }
+            ]
         },
         {
             "id": 26,
@@ -753,7 +1049,18 @@
             "drug_1": "Diluadid",
             "drug_2": "Vicodin",
             "drug_3": "",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Diluadid","Vicodin"
+            ],
+            "availability": [
+              {
+                "Monday": "3:00 pm ET",
+                "Tuesday": "3:30 pm ET",
+                "Thursday": "3:30 pm ET",
+                "Friday": "2:00 pm ET"
+              }
+            ]
         },
         {
             "id": 27,
@@ -781,7 +1088,18 @@
             "drug_1": "Eliquis",
             "drug_2": "Lasix",
             "drug_3": "Entresto",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Eliquis","Lasix","Entresto"
+            ],
+            "availability": [
+              {
+                "Monday": "3:00 pm ET",
+                "Tuesday": "3:30 pm ET",
+                "Thursday": "3:30 pm ET",
+                "Friday": "2:00 pm ET"
+              }
+            ]
         },
         {
             "id": 28,
@@ -809,7 +1127,18 @@
             "drug_1": "Tecfidera",
             "drug_2": "Ubrelvy",
             "drug_3": "Mayzent",
-            "drug_4": "Qulipta"
+            "drug_4": "Qulipta",
+            "drug-list": [
+              "Tecfidera","Ubrelvy","Mayzent","Qulipta",
+            ],
+            "availability": [
+              {
+                "Monday": "3:00 pm ET",
+                "Tuesday": "3:30 pm ET",
+                "Thursday": "3:30 pm ET",
+                "Friday": "2:00 pm ET"
+              }
+            ]
         },
         {
             "id": 29,
@@ -837,7 +1166,18 @@
             "drug_1": "Invokana",
             "drug_2": "Farxiga",
             "drug_3": "Procrit",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Invokana","Farxiga","Procrit"
+            ],
+            "availability": [
+              {
+                "Monday": "1:00 pm ET",
+                "Tuesday": "1:30 pm ET",
+                "Wednesday": "1:00 pm ET",
+                "Friday": "1:00 pm ET"
+              }
+            ]
         },
         {
             "id": 30,
@@ -865,7 +1205,17 @@
             "drug_1": "Xanax",
             "drug_2": "Caplyta",
             "drug_3": "Lexapro",
-            "drug_4": "Lybalvi"
+            "drug_4": "Lybalvi",
+            "drug-list": [
+              "Xanax","Caplyta","Lexapro","Lybalvi",
+            ],
+            "availability": [
+              {
+                "Tuesday": "12:30 pm ET",
+                "Wednesday": "12:00 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 31,
@@ -893,7 +1243,17 @@
             "drug_1": "Dupixent",
             "drug_2": "Albuterol",
             "drug_3": "Advair",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Dupixent","Albuterol","Advair"
+            ],
+            "availability": [
+              {
+                "Monday": "4:30 pm ET",
+                "Wednesday": "5:00 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 32,
@@ -921,7 +1281,17 @@
               "drug_1": "Lexapro",
               "drug_2": "Caplyta",
               "drug_3": "Xanax",
-              "drug_4": "Lybalvi"
+              "drug_4": "Lybalvi",
+              "drug-list": [
+                "Lexapro","Caplyta","Xanax","Lybalvi"
+              ],
+              "availability": [
+                {
+                  "Monday": "9:00 am ET",
+                  "Thursday": "5:00 pm ET",
+                  "Friday": "12:00 pm ET"
+                }
+              ]
         },
         {
             "id": 33,
@@ -949,7 +1319,17 @@
               "drug_1": "Januvia",
               "drug_2": "Victoza",
               "drug_3": "Lipitor",
-              "drug_4": "Crestor"
+              "drug_4": "Crestor",
+              "drug-list": [
+                "Januvia","Victoza","Lipitor","Crestor"
+              ],
+              "availability": [
+                {
+                  "Monday": "9:00 am ET",
+                  "Thursday": "5:00 pm ET",
+                  "Friday": "12:00 pm ET"
+                }
+              ]
         },
         {
             "id": 34,
@@ -977,7 +1357,18 @@
             "drug_1": "Everolimus",
             "drug_2": "Myrbetriq",
             "drug_3": "Taxotere",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Everolimus","Myrbetriq","Taxotere"
+            ],
+            "availability": [
+              {
+                "Tuesday": "9:00 am ET",
+                "Wednesday": "2:00 pm ET",
+                "Thursday": "12:00 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 35,
@@ -1005,7 +1396,18 @@
             "drug_1": "Amoxicillin",
             "drug_2": "Azithromycin",
             "drug_3": "Albuterol",
-            "drug_4": "Cefdinir"
+            "drug_4": "Cefdinir",
+            "drug-list": [
+              "Amoxicillin","Azithromycin","Albuterol","Cefdinir"
+            ],
+            "availability": [
+              {
+                "Tuesday": "9:00 am ET",
+                "Wednesday": "2:00 pm ET",
+                "Thursday": "12:00 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 36,
@@ -1033,7 +1435,18 @@
             "drug_1": "Ibrance",
             "drug_2": "Avastin",
             "drug_3": "Keytruda",
-            "drug_4": "Opdivo"
+            "drug_4": "Opdivo",
+            "drug-list": [
+              "Ibrance","Avastin","Keytruda","Opdivo"
+            ],
+            "availability": [
+              {
+                "Tuesday": "9:00 am ET",
+                "Wednesday": "2:00 pm ET",
+                "Thursday": "12:00 pm ET",
+                "Friday": "12:00 pm ET"
+              }
+            ]
         },
         {
             "id": 37,
@@ -1061,7 +1474,18 @@
             "drug_1": "Humira",
             "drug_2": "Celebrex",
             "drug_3": "Enbrel",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Humira","Celebrex","Enbrel"
+            ],
+            "availability": [
+              {
+                "Tuesday": "9:00 am ET",
+                "Wednesday": "2:00 pm ET",
+                "Thursday": "12:00 pm ET",
+                "Friday": "9:00 am ET"
+              }
+            ]
         },
         {
             "id": 38,
@@ -1089,7 +1513,18 @@
             "drug_1": "Keytruda",
             "drug_2": "Opdivo",
             "drug_3": "Tagrisso",
-            "drug_4": "Perjeta"
+            "drug_4": "Perjeta",
+            "drug-list": [
+              "Keytruda","Opdivo","Tagrisso","Perjeta"
+            ],
+            "availability": [
+              {
+                "Monday": "10:00 am ET",
+                "Wednesday": "12:00 pm ET",
+                "Thursday": "12:00 pm ET",
+                "Friday": "11:00 am ET"
+              }
+            ]
         },
         {
             "id": 39,
@@ -1117,7 +1552,18 @@
             "drug_1": "Dupixent",
             "drug_2": "Botox",
             "drug_3": "betamethasone",
-            "drug_4": ""
+            "drug_4": "",
+            "drug-list": [
+              "Dupixent","Botox","betamethasone"
+            ],
+            "availability": [
+              {
+                "Monday": "11:00 am ET",
+                "Tuesday": "12:00 pm ET",
+                "Thursday": "12:00 pm ET",
+                "Friday": "11:00 am ET"
+              }
+            ]
         },
         {
             "id": 40,
@@ -1145,6 +1591,17 @@
             "drug_1": "Wellbutrin ",
             "drug_2": "Seroquel",
             "drug_3": "Latuda",
-            "drug_4": "Abilify"
+            "drug_4": "Abilify",
+            "drug-list": [
+              "Wellbutrin ","Seroquel","Latuda","Abilify"
+            ],
+            "availability": [
+              {
+                "Monday": "9:00 am ET",
+                "Tuesday": "9:00 am ET",
+                "Wednesday": "12:00 pm ET",
+                "Friday": "9:00 am ET"
+              }
+            ]
         }
     ]

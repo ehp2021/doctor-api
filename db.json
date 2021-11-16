@@ -32,15 +32,15 @@
             "availability": [
               {
                 "Monday": [
-                  {"time": "12:00 pm ET", "day": "Monday"},
-                  {"time": "4:00 pm ET", "day": "Monday"}
+                  ["12:00 pm ET", "Monday"],
+                  ["4:00 pm ET", "Monday"]
                 ],
                 "Wednesday": [
-                  {"time": "12:00 pm ET", "day": "Wednesday"}
+                  ["12:00 pm ET", "Wednesday"]
                 ],
                 "Friday": [
-                  {"time": "4:00 pm ET", "day": "Friday"},
-                  {"time": "7:00 pm ET", "day": "Friday"}
+                  ["4:00 pm ET", "Friday"],
+                  ["7:00 pm ET", "Friday"]
                 ]
               }
             ]

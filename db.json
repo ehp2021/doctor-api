@@ -77,10 +77,21 @@
               ],
               "availability": [
                 {
-                  "Monday": "8:00 pm ET",
-                  "Tuesday": "4:30 pm ET",
-                  "Wednesday": "10:00 am ET",
-                  "Friday": "12:00 pm ET"
+                    "Monday": [
+                      ["12:00 pm ET", "Monday"],
+                      ["4:00 pm ET", "Monday"]
+                    ],
+                    "Tuesday": [
+                      ["10:00 am ET", "Tuesday"],
+                      ["4:00 pm ET", "Tuesday"]
+                    ],
+                    "Thursday": [
+                      ["12:00 pm ET", "Thursday"]
+                    ],
+                    "Friday": [
+                      ["4:00 pm ET", "Friday"],
+                      ["7:00 pm ET", "Friday"]
+                    ]
                 }
               ]
         },
@@ -116,10 +127,21 @@
               ],
               "availability": [
                 {
-                  "Monday": "8:15 am ET",
-                  "Tuesday": "4:30 pm ET",
-                  "Wednesday": "10:00 am ET",
-                  "Friday": "12:00 pm ET"
+                  "Monday": [
+                    ["1:00 pm ET", "Monday"],
+                    ["6:00 pm ET", "Monday"]
+                  ],
+                  "Tuesday": [
+                    ["10:00 am ET", "Tuesday"],
+                    ["4:00 pm ET", "Tuesday"]
+                  ],
+                  "Wednesday": [
+                    ["12:00 pm ET", "Wednesday"]
+                  ],
+                  "Friday": [
+                    ["4:00 pm ET", "Friday"],
+                    ["5:00 pm ET", "Friday"]
+                  ]
                 }
               ]
         },
@@ -155,10 +177,17 @@
             ],
             "availability": [
               {
-                "Monday": "8:15 am ET",
-                "Tuesday": "4:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["1:00 pm ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["2:00 pm ET", "Wednesday"]
+                ]
               }
             ]
         },
@@ -194,10 +223,21 @@
             ],
             "availability": [
               {
-                "Monday": "8:15 am ET",
-                "Tuesday": "4:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["1:00 pm ET", "Monday"],
+                  ["3:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["9:00 am ET", "Tuesday"],
+                  ["5:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -233,10 +273,21 @@
             ],
             "availability": [
               {
-                "Monday": "8:15 am ET",
-                "Tuesday": "4:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["1:00 pm ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -272,10 +323,22 @@
             ],
             "availability": [
               {
-                "Monday": "8:15 am ET",
-                "Tuesday": "4:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["4:00 pm ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["6:00 pm ET", "Tuesday"]
+                ],
+                "Thursday": [
+                  ["1:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -350,10 +413,26 @@
             ],
             "availability": [
               {
-                "Monday": "8:15 am ET",
-                "Tuesday": "4:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -389,10 +468,26 @@
             ],
             "availability": [
               {
-                "Monday": "8:15 am ET",
-                "Tuesday": "3:30 pm ET",
-                "Wednesday": "11:00 am ET",
-                "Friday": "1:00 pm ET"
+                "Monday": [
+                  ["8:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["8:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -428,10 +523,22 @@
             ],
             "availability": [
               {
-                "Monday": "8:15 am ET",
-                "Tuesday": "3:30 pm ET",
-                "Wednesday": "11:00 am ET",
-                "Friday": "1:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Thursday": [
+                  ["1:00 pm ET", "Thursday"],
+                  ["5:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -467,10 +574,22 @@
             ],
             "availability": [
               {
-                "Monday": "7:15 pm ET",
-                "Tuesday": "5:30 pm ET",
-                "Wednesday": "8:00 am ET",
-                "Friday": "4:00 pm ET"
+                "Monday": [
+                  ["7:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -506,10 +625,18 @@
             ],
             "availability": [
               {
-                "Monday": "7:15 pm ET",
-                "Tuesday": "5:30 pm ET",
-                "Wednesday": "8:00 am ET",
-                "Friday": "4:00 pm ET"
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["2:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["1:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["6:00 pm ET", "Thursday"]
+                ]
               }
             ]
         },
@@ -545,10 +672,19 @@
             ],
             "availability": [
               {
-                "Monday": "4:15 pm ET",
-                "Tuesday": "1:30 pm ET",
-                "Wednesday": "9:00 am ET",
-                "Friday": "4:00 pm ET"
+                "Monday": [
+                  ["9:00 am ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -584,11 +720,24 @@
             ],
             "availability": [
               {
-                "Monday": "2:30 pm ET",
-                "Tuesday": "12:30 pm ET",
-                "Wednesday": "7:00 am ET",
-                "Thursday": "2:30 pm ET",
-                "Friday": "4:00 pm ET"
+                "Monday": [
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["3:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["3:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -624,11 +773,21 @@
             ],
             "availability": [
               {
-                "Monday": "2:30 pm ET",
-                "Tuesday": "12:30 pm ET",
-                "Wednesday": "5:00 am ET",
-                "Thursday": "12:30 pm ET",
-                "Friday": "4:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -664,11 +823,25 @@
             ],
             "availability": [
               {
-                "Monday": "12:30 pm ET",
-                "Tuesday": "12:30 pm ET",
-                "Wednesday": "8:00 am ET",
-                "Thursday": "12:30 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["6:00 pm ET", "Thursday"],
+                  ["7:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -704,11 +877,26 @@
             ],
             "availability": [
               {
-                "Monday": "2:30 pm ET",
-                "Tuesday": "2:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Thursday": "2:30 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["9:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["8:00 am ET", "Tuesday"],
+                  ["5:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["1:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["1:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["2:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -744,11 +932,22 @@
             ],
             "availability": [
               {
-                "Monday": "10:00 am ET",
-                "Tuesday": "2:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Thursday": "2:30 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["3:00 pm ET", "Tuesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["3:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -784,11 +983,26 @@
             ],
             "availability": [
               {
-                "Monday": "12:00 pm ET",
-                "Tuesday": "2:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Thursday": "2:30 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["9:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["1:00 pm ET", "Thursday"],
+                  ["8:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["8:00 am ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -824,11 +1038,22 @@
             ],
             "availability": [
               {
-                "Monday": "12:00 pm ET",
-                "Tuesday": "2:30 pm ET",
-                "Wednesday": "10:00 am ET",
-                "Thursday": "2:30 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["3:00 pm ET", "Thursday"],
+                  ["7:00 pm ET", "Thursday"]
+                ]
               }
             ]
         },
@@ -864,11 +1089,25 @@
               ],
               "availability": [
                 {
-                  "Monday": "12:00 pm ET",
-                  "Tuesday": "12:30 pm ET",
-                  "Wednesday": "9:00 am ET",
-                  "Thursday": "12:30 pm ET",
-                  "Friday": "12:00 pm ET"
+                  "Monday": [
+                    ["6:00 pm ET", "Monday"]
+                  ],
+                  "Tuesday": [
+                    ["10:00 am ET", "Tuesday"],
+                    ["6:00 pm ET", "Tuesday"]
+                  ],
+                  "Wednesday": [
+                    ["12:00 pm ET", "Wednesday"],
+                    ["7:00 pm ET", "Wednesday"]
+                  ],
+                  "Thursday": [
+                    ["12:00 pm ET", "Thursday"],
+                    ["4:00 pm ET", "Thursday"]
+                  ],
+                  "Friday": [
+                    ["4:00 pm ET", "Friday"],
+                    ["5:00 pm ET", "Friday"]
+                  ]
                 }
               ]
         },
@@ -904,11 +1143,14 @@
             ],
             "availability": [
               {
-                "Monday": "12:00 pm ET",
-                "Tuesday": "12:30 pm ET",
-                "Wednesday": "5:00 pm ET",
-                "Thursday": "12:30 pm ET",
-                "Friday": "5:00 pm ET"
+                "Monday": [
+                  ["11:00 am ET", "Monday"],
+                  ["8:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["7:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ]
               }
             ]
         },
@@ -944,11 +1186,18 @@
             ],
             "availability": [
               {
-                "Monday": "3:00 pm ET",
-                "Tuesday": "4:30 pm ET",
-                "Wednesday": "5:00 pm ET",
-                "Thursday": "4:30 pm ET",
-                "Friday": "5:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["9:00 am ET", "Tuesday"],
+                  ["7:00 pm ET", "Tuesday"]
+                ],
+                "Friday": [
+                  ["2:00 pm ET", "Friday"],
+                  ["6:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -984,11 +1233,18 @@
             ],
             "availability": [
               {
-                "Monday": "5:00 pm ET",
-                "Tuesday": "4:30 pm ET",
-                "Wednesday": "5:00 pm ET",
-                "Thursday": "6:30 pm ET",
-                "Friday": "5:00 pm ET"
+                "Tuesday": [
+                  ["11:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Thursday": [
+                  ["2:00 pm ET", "Thursday"],
+                  ["3:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["8:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1024,11 +1280,26 @@
             ],
             "availability": [
               {
-                "Monday": "6:00 pm ET",
-                "Tuesday": "6:30 pm ET",
-                "Wednesday": "5:00 pm ET",
-                "Thursday": "4:30 pm ET",
-                "Friday": "5:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1064,10 +1335,26 @@
             ],
             "availability": [
               {
-                "Monday": "3:00 pm ET",
-                "Tuesday": "3:30 pm ET",
-                "Thursday": "3:30 pm ET",
-                "Friday": "2:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["3:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["8:00 am ET", "Tuesday"],
+                  ["3:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["3:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["3:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1103,10 +1390,25 @@
             ],
             "availability": [
               {
-                "Monday": "3:00 pm ET",
-                "Tuesday": "3:30 pm ET",
-                "Thursday": "3:30 pm ET",
-                "Friday": "2:00 pm ET"
+                "Monday": [
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["11:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["3:00 pm ET", "Wednesday"],
+                  ["7:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["8:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1142,10 +1444,26 @@
             ],
             "availability": [
               {
-                "Monday": "3:00 pm ET",
-                "Tuesday": "3:30 pm ET",
-                "Thursday": "3:30 pm ET",
-                "Friday": "2:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["6:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["6:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["6:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["6:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1181,10 +1499,18 @@
             ],
             "availability": [
               {
-                "Monday": "1:00 pm ET",
-                "Tuesday": "1:30 pm ET",
-                "Wednesday": "1:00 pm ET",
-                "Friday": "1:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1220,9 +1546,23 @@
             ],
             "availability": [
               {
-                "Tuesday": "12:30 pm ET",
-                "Wednesday": "12:00 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["8:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1258,9 +1598,21 @@
             ],
             "availability": [
               {
-                "Monday": "4:30 pm ET",
-                "Wednesday": "5:00 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1296,9 +1648,18 @@
               ],
               "availability": [
                 {
-                  "Monday": "9:00 am ET",
-                  "Thursday": "5:00 pm ET",
-                  "Friday": "12:00 pm ET"
+                  "Monday": [
+                    ["10:00 am ET", "Monday"],
+                    ["6:00 pm ET", "Monday"]
+                  ],
+                  "Tuesday": [
+                    ["10:00 am ET", "Tuesday"],
+                    ["4:00 pm ET", "Tuesday"]
+                  ],
+                  "Wednesday": [
+                    ["1:00 pm ET", "Wednesday"],
+                    ["4:00 pm ET", "Wednesday"]
+                  ]
                 }
               ]
         },
@@ -1334,9 +1695,18 @@
               ],
               "availability": [
                 {
-                  "Monday": "9:00 am ET",
-                  "Thursday": "5:00 pm ET",
-                  "Friday": "12:00 pm ET"
+                  "Wednesday": [
+                    ["12:00 pm ET", "Wednesday"],
+                    ["5:00 pm ET", "Wednesday"]
+                  ],
+                  "Thursday": [
+                    ["12:00 pm ET", "Thursday"],
+                    ["5:00 pm ET", "Thursday"]
+                  ],
+                  "Friday": [
+                    ["4:00 pm ET", "Friday"],
+                    ["5:00 pm ET", "Friday"]
+                  ]
                 }
               ]
         },
@@ -1372,10 +1742,23 @@
             ],
             "availability": [
               {
-                "Tuesday": "9:00 am ET",
-                "Wednesday": "2:00 pm ET",
-                "Thursday": "12:00 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["4:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["4:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["4:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1411,10 +1794,18 @@
             ],
             "availability": [
               {
-                "Tuesday": "9:00 am ET",
-                "Wednesday": "2:00 pm ET",
-                "Thursday": "12:00 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["10:00 am ET", "Monday"],
+                  ["7:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["10:00 am ET", "Tuesday"],
+                  ["7:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["7:00 pm ET", "Wednesday"]
+                ]
               }
             ]
         },
@@ -1450,10 +1841,22 @@
             ],
             "availability": [
               {
-                "Tuesday": "9:00 am ET",
-                "Wednesday": "2:00 pm ET",
-                "Thursday": "12:00 pm ET",
-                "Friday": "12:00 pm ET"
+                "Monday": [
+                  ["8:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["8:00 am ET", "Tuesday"],
+                  ["6:00 pm ET", "Tuesday"]
+                ],
+                "Thursday": [
+                  ["12:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["10:00 am ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1489,10 +1892,22 @@
             ],
             "availability": [
               {
-                "Tuesday": "9:00 am ET",
-                "Wednesday": "2:00 pm ET",
-                "Thursday": "12:00 pm ET",
-                "Friday": "9:00 am ET"
+                "Monday": [
+                  ["8:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["8:00 am ET", "Tuesday"],
+                  ["6:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["12:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Friday": [
+                  ["8:00 am ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1528,10 +1943,25 @@
             ],
             "availability": [
               {
-                "Monday": "10:00 am ET",
-                "Wednesday": "12:00 pm ET",
-                "Thursday": "12:00 pm ET",
-                "Friday": "11:00 am ET"
+                "Monday": [
+                  ["7:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["7:00 am ET", "Tuesday"],
+                  ["6:00 pm ET", "Tuesday"]
+                ],
+                "Wednesday": [
+                  ["1:00 pm ET", "Wednesday"],
+                  ["2:00 pm ET", "Wednesday"]
+                ],
+                "Thursday": [
+                  ["1:00 pm ET", "Thursday"],
+                  ["2:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["7:00 am ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1567,10 +1997,22 @@
             ],
             "availability": [
               {
-                "Monday": "11:00 am ET",
-                "Tuesday": "12:00 pm ET",
-                "Thursday": "12:00 pm ET",
-                "Friday": "11:00 am ET"
+                "Monday": [
+                  ["11:00 am ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Tuesday": [
+                  ["11:00 am ET", "Tuesday"],
+                  ["6:00 pm ET", "Tuesday"]
+                ],
+                "Thursday": [
+                  ["1:00 pm ET", "Thursday"],
+                  ["7:00 pm ET", "Thursday"]
+                ],
+                "Friday": [
+                  ["11:00 am ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         },
@@ -1606,10 +2048,14 @@
             ],
             "availability": [
               {
-                "Monday": "9:00 am ET",
-                "Tuesday": "9:00 am ET",
-                "Wednesday": "12:00 pm ET",
-                "Friday": "9:00 am ET"
+                "Monday": [
+                  ["3:00 pm ET", "Monday"],
+                  ["6:00 pm ET", "Monday"]
+                ],
+                "Friday": [
+                  ["3:00 pm ET", "Friday"],
+                  ["5:00 pm ET", "Friday"]
+                ]
               }
             ]
         }
